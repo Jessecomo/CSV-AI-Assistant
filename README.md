@@ -15,3 +15,10 @@ Upon launching, the assistant will:
 - 📊 **Data Summarization**: Automatically explains the structure, columns, and trends in your CSV.
 - 🧠 **Memory Buffer**: Keeps track of previous questions and answers for more coherent conversations.
 - 🤖 **Powered by GPT-4o**: Uses OpenAI’s GPT-4o model via LangChain for powerful reasoning and response generation.
+
+---
+
+## 🔐 API Key Setup (.env Required)
+
+This project uses an `.env` file to store your **OpenAI API key** securely.  
+You must create your own `.env` file in the root of the project:
